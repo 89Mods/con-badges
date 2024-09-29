@@ -1,0 +1,15 @@
+EF-Badge-2024/afterburner/
+EF-Badge-2024/galette/
+*.fus
+*.chp
+*.jed
+*.pin
+EF-Badge-2024/GAL/sim/obj_dir/
+EF-Badge-2024/CPLD/sim/obj_dir/
+EF-Badge-2024/HW/*/*-backups/
+EF-Badge-2024/HW/*/production/
+*.o
+*.bin
+*.class
+a.out
+EF-Badge-2024/sim/test

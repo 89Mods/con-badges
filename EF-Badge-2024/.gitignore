@@ -1,0 +1,11 @@
+syntax: glob
+*.bin
+*.hex
+galette/
+afterburner/
+*.jed
+*.pin
+*.chp
+*.fus
+*.out
+GAL/sim/obj_dir/
