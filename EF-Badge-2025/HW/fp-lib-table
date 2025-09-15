@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UL_FPGA")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "MicroMod")(type "KiCad")(uri "/media/lucah/8a6b8802-051e-45a8-8492-771202e4c08a/gfmpw1-multi-bringup/caravel_board/hardware/footprints/MicroMod-Sparkfun.pretty")(options "")(descr ""))
+)

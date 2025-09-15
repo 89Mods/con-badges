@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UL_FPGA")(type "KiCad")(uri "${KIPRJMOD}/2025-03-17_13-01-52.kicad_sym")(options "")(descr ""))
+)
